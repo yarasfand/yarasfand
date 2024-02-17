@@ -87,12 +87,13 @@ Let's code the future together! 🌐💻
 <a target="_blank" rel="noopener noreferrer nofollow" </p>
 
 # 📊 GitHub Stats:
- ![yarasfand's Stats](https://github-readme-stats.vercel.app/api?username=yarasfand&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![yarasfand's Stats](https://github-readme-stats.vercel.app/api?username=yarasfand&theme=dark&show_icons=true&hide_border=false&count_private=true)
   <br/>
   <br/>
-![yarasfand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yarasfand&theme=tokyonight&hide_border=false)<br/>
+![yarasfand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yarasfand&theme=dark&hide_border=false)
 <br/>
-![yarasfand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarasfand&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<br/>
+![yarasfand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarasfand&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
   ## 💰 You can Support me 
