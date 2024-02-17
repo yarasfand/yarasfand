@@ -87,12 +87,12 @@ Let's code the future together! 🌐💻
 <a target="_blank" rel="noopener noreferrer nofollow" </p>
 
 # 📊 GitHub Stats:
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=darcula&preferLogin=false&Border=B3D8DD">    <img  alt="yarasfand's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yarasfand?cardType=github&theme=darcula&preferLogin=false&Border=B3D8DD" />  </a>
+ ![yarasfand's Stats](https://github-readme-stats.vercel.app/api?username=yarasfand&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
   <br/>
   <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yarasfand&theme=dark&hide_border=false)<br/>
+![yarasfand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yarasfand&theme=tokyonight&hide_border=false)<br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yarasfand&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![yarasfand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yarasfand&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 
   ## 💰 You can Support me 
