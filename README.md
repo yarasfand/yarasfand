@@ -9,15 +9,14 @@
 
 
 
-👋 Hey, I'm an enthusiastic front-end web and mobile app developer with intense expertise in Flutter and React. With over a year of hands-on experience, I've been consistently developing a variety of products.
-
+🌟 Dreaming of seamless web and app experiences? So am I! As an aspiring front-end web and mobile app developer, my adventure is driven by passion and powered by Flutter and React.js. With a rich portfolio and over a year’s experience, I'm not just about writing code; I'm about crafting solutions that inspire and engage.
 
 
 🚀 As a dedicated coder, I'm passionate about staying at the forefront of technology. I'm a quick learner, always eager to explore and master the latest technologies to enhance my skill set.
 
-🎓 Currently in the final year of my computer science studies, I'm excited to merge my academic knowledge with real-world application, pushing the boundaries of what's possible in the ever-evolving world of development.
+🎓 In the final throes of my computer science degree, I balance the rigor of academia with the dynamism of practical application. My internships have seen me breathe life into websites with React.js and develop handy applications with Flutter. Always eager to grow, I'm branching out into Next.js, excited by its potential to redefine front-end development.
 
-Let's code the future together! 🌐💻
+If you're passionate about transforming ideas into interactive realities, let's sync up and make digital magic happen together. 💫💻
 
 
 
