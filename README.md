@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
+![MasterHead](https://github.com/yarasfand/yarasfand/assets/133318363/748a9de8-616a-4a05-ab7e-e9e3d8f6c852)
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> I'm Asfand Yar</h1>
