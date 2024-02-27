@@ -9,6 +9,7 @@
 
 
 
+
 🌟 Dreaming of seamless web and app experiences? So am I! As an aspiring front-end web and mobile app developer, my adventure is driven by passion and powered by Flutter and React.js. With a rich portfolio and over a year’s experience, I'm not just about writing code; I'm about crafting solutions that inspire and engage.
 
 
@@ -46,7 +47,6 @@ If you're passionate about transforming ideas into interactive realities, let's 
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
