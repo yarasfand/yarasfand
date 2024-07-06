@@ -1,6 +1,4 @@
-![MasterHead](https://github.com/yarasfand/yarasfand/assets/133318363/9dae3a52-51b0-43ae-aa34-03245d5d4d9f)
-
-
+![MasterHead](https://github.com/yarasfand/yarasfand/assets/133318363/d5fef256-6e2a-4996-88dd-ca04f9f12e18)
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> I'm Asfand Yar</h1>
